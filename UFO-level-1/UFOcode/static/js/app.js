@@ -12,7 +12,7 @@ function runEnter() {
     var sel = document.getElementById('datetime');
     let inputValue = sel.value
     let newData = tableData.filter(item => item.datetime === inputValue)
-    alert(newData.length)
+    // alert(newData.length)
     var elmtTable = document.getElementById('infotodisplay');
     var tableRows = elmtTable.getElementsByTagName('tr');
     var rowCount = tableRows.length;
