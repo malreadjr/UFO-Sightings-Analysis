@@ -1,6 +1,6 @@
 # UFO-Sightings-Analysis
 
-
+![image](https://user-images.githubusercontent.com/69222103/112066100-27628a00-8b3c-11eb-82f3-1bdf0a94517a.png)
 
 
 Eye witness reports of UFO sightings were gathered and displayed through a one page website. HTML/CSS along with javascript were used to explore this data.
