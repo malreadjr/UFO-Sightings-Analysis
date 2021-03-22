@@ -1,4 +1,7 @@
 # UFO-Sightings-Analysis
+
+https://gt.bootcampcontent.com/GT-Coding-Boot-Camp/gt-atl-data-pt-09-2020-u-c/raw/master/02-Homework/14-Intro-To-JavaScript/Solutions/level-1/static/images/nasa.jpg
+
 Eye witness reports of UFO sightings were gathered and displayed through a one page website. HTML/CSS along with javascript were used to explore this data.
 
 
